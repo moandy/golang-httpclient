@@ -30,7 +30,7 @@ Usage of ./goroutine:
 
 ![](http://o7d2h0gjo.bkt.clouddn.com/2017-12-25-15142096539053.png)
 
-![](http://o7d2h0gjo.bkt.clouddn.com/2017-12-25-15142096602737.png)
+![](https://jersey.github.io/documentation/latest/images/rx-client-async-approach.png)
 
 #### 结论
 
